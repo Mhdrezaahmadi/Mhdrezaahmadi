@@ -5,6 +5,6 @@
 - 📫 You can email me if you are looking for a partner in your machine learning project or any project with Python or MATLAB or if you have any question, feel free to contact me.
 
 <!---
-Mhdrezaahmadi/Mhdrezaahmadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mhdreza/0002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
